@@ -7,7 +7,6 @@ The basic functionality is a list of recipes.
 Additional features could be:
 
   - Create and share your own recipe
-  - Show costs of ingredients
   - Show prices of ingredients
   - Add photo-/video-material
   - ...
